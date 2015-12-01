@@ -11,7 +11,7 @@ inline void keep_window_open() { char ch; cin>>ch; }
 
 int main()
 {
- cout << "Hello! This is my first C++ program with Ubuntu 14.04\nAnd also the first on github\n";
+ cout << "Hello! This is my first C++ program with Ubuntu 14.04\nAnd also the first on github\nWill progress in time\n";
  /* Do something more if you want */
  return 0;
 }
