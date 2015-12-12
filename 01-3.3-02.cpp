@@ -16,5 +16,5 @@ int main()
     string first;
     string second;
     cin >> first >> second;// read two strings
-    cout << "Hello, " << first <<" " << second << '\n';
+    cout << "Hello, " << first <<" " << second << '\n';// the empty space in quotes was wrong in the book
 }
